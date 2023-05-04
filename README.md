@@ -7,7 +7,7 @@
 
 - 👯 Looking to collaborations in **AI domain**
 
-- 🌐 Check my work in more details on my website: [manuotel.com](manuotel.com)
+- 🌐 Check my work in more details on my website: [manuotel.com](www.manuotel.com)
 
 - 📫 Reach me **manuotel@gmail.com**
 
