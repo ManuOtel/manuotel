@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">A passionate AI/DL/ML developer from Romania, located in Denmark</h3>
+<h3 align="center">A passionate AI/DL developer from Romania, located in Taiwan</h3>
 
-- 🔭 Currently studying at **University of Southern Denmark**
+- 🔭 Currently working at **ContactLoop**.
 
-- 🌱 Learning everything about **Deep Learning**
+- 🌱 Developing proper **Custom ChatBots** using private data. 
 
-- 👯 Looking to collaborations in **AI domain**
+- 👯 If you're looking to have your own ChatBot **contact me!**
 
-- 🌐 Check my work in more details on my website: [manuotel.com](https://www.manuotel.com)
+- 🌐 Check my work in more details on my website: [manuotel.com](https://www.manuotel.com).
 
-- 📫 Reach me **manuotel@gmail.com**
+- 📫 Reach me **manuotel@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
