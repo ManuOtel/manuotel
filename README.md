@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">A passionate AI/DL developer from Romania, located in Taiwan</h3>
+<h3 align="center">A passionate AI ChatBot developer from Romania, located in Taiwan</h3>
 
 - 🔭 Currently working at **ContactLoop**.
 
