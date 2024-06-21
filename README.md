@@ -3,13 +3,11 @@
 
 - 🔭 Currently working at **ContactLoop**.
 
-- 🌱 Developing proper **Custom ChatBots** using private data. 
+- 🌱 Developing **AI apps** for chat, voice, etc. 
 
-- 👯 If you're looking to have your own ChatBot **contact me!**
+- 👯 Interested in talking to me? - 📫 Reach me at **manuotel@gmail.com**.
 
 - 🌐 Check my work in more details on my website: [manuotel.com](https://www.manuotel.com).
-
-- 📫 Reach me **manuotel@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
